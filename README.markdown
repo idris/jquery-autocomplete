@@ -12,9 +12,7 @@ Links
 =====
 
 * [Download](http://github.com/idris/jquery-autocomplete/downloads)
-
 * [Documentation](http://docs.jquery.com/Plugins/Autocomplete) ([Plugin Options](http://docs.jquery.com/Plugins/Autocomplete/autocomplete#toptions))
-
 * [Demos](http://jquery.bassistance.de/autocomplete/demo/)
 
 
@@ -23,11 +21,11 @@ Dependencies
 
 Required
 --------
-[jQuery 1.2.6+](http://jquery.com/)
+* [jQuery 1.2.6+](http://jquery.com/)
 
 Optional
 --------
-*optional*: [bgiframe plugin](http://plugins.jquery.com/project/bgiframe) to fix select-problems in IE, just include to apply to autocomplete
+* *optional*: [bgiframe plugin](http://plugins.jquery.com/project/bgiframe) to fix select-problems in IE, just include to apply to autocomplete
 
 
 Support
